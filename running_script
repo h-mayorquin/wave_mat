@@ -1,0 +1,5 @@
+#!/bin/bash
+# My first script
+
+scons
+python python_network_plot.py
