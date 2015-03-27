@@ -3,3 +3,4 @@
 
 scons
 python python_network_plot.py
+mpie
